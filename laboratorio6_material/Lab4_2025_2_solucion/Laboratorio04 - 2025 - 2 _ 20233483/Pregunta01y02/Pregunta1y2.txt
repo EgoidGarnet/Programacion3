@@ -1,0 +1,4 @@
+Hostname: labs-2025-2-prog3.cfuo0cyg27jw.us-east-1.rds.amazonaws.com
+Username: root
+Password: prog31inf30
+Nombre de bd o esquema: laboratorio4

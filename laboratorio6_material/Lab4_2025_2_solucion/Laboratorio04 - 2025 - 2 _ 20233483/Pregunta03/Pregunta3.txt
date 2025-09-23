@@ -1,0 +1,12 @@
+D:\temp\Laboratorio04 - 2025 - 2\Pregunta03>SET PATH=C:\Program Files\Apache NetBeans\jdk\bin;%PATH%
+
+
+D:\temp\Laboratorio04 - 2025 - 2\Pregunta03>javac pe\edu\pucp\gamesoft\model\*.java
+
+D:\temp\Laboratorio04 - 2025 - 2\Pregunta03>javac pe\edu\pucp\generic\utils\*.java
+
+D:\temp\Laboratorio04 - 2025 - 2\Pregunta03>jar cvf utilitaries.jar pe\edu\pucp\gamesoft\model\*.class pe\edu\pucp\generic\utils\*.class
+manifiesto agregado
+agregando: pe/edu/pucp/gamesoft/model/Clasificacion.class(entrada = 1169) (salida = 595)(desinflado 49%)
+agregando: pe/edu/pucp/gamesoft/model/Videojuego.class(entrada = 2162) (salida = 896)(desinflado 58%)
+agregando: pe/edu/pucp/generic/utils/ObjectFileWriter.class(entrada = 3401) (salida = 1787)(desinflado 47%)
