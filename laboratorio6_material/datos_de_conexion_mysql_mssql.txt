@@ -11,7 +11,7 @@ MSSQL:
 Hostname: mssql-2025-2-prog3.c9a0o4imiaua.us-east-1.rds.amazonaws.com
 Username: root
 Password: prog31inf30
-Nombre de bd o esquema: --laboratorio6mysql  no tiene
+Nombre de bd o esquema: 
 
 
 
